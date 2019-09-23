@@ -1,0 +1,100 @@
+/* ----------------------------------- *
+ * Your Styles Here
+ * ----------------------------------- */
+ body {
+    background-color: rgb(31, 59, 31);
+    font-family: Georgia;
+
+  }
+  #main-header {
+    position: absolute;
+    left: 1%;
+    right: 60%; 
+    top: 5%;
+    bottom: 75%;
+    width: 400px;
+    text-align: center;
+    border-radius: 10px;
+    /*font-style: italic;*/
+    color: orange;
+    padding-top: 30px;
+
+  }
+
+  #main-content {
+    position: absolute;
+    left: 30%;
+    right: 3%; 
+    top: 5%;
+    bottom: 0%;
+    width: auto;
+      
+  }
+  .main-content-section {
+    padding-top: 40px;
+  }
+  
+  #sidebar {
+    position: absolute;
+    left: 5%;
+    right: 60%; 
+    top: 35%;
+    bottom: 5%;
+    width: 300px;
+    height: 70%;
+    background-color: rgb(195, 250, 178);
+    box-shadow: 9px 9px 39px rgba(191, 191, 191, 0.24);
+    border-radius: 10px;
+    opacity: 0.8;
+    padding-top: 20px;
+    
+  }
+  .section-content {
+    font-size: 20px;
+    text-align: justify;
+  }
+  .section-title {
+    color: orange;
+    text-align: left;
+    font-style: italic;
+    padding-left: 35px;
+    
+  }
+  .section-content {
+    color: rgb(245, 245, 198);
+  }
+  .nav-links {
+    margin: 0 auto;
+    list-style: none;
+    
+  }
+  .nav-link-list-item {
+    padding-top: 25px;
+
+    }
+  .nav-link {
+    text-decoration: none;
+    color: rgb(102, 44, 83);
+    font-size: 20px;
+    padding-left: 0px;
+    margin-left: 0px;
+    
+  }
+  .citation {
+    color: orange;
+    /*margin-left: 100em;*/
+    font-size: 17px;
+    padding-bottom: 20px;
+    text-align: left;
+  }
+  cite a {
+    color: rgb(245, 245, 198);
+    font-size: 19px;
+    margin-left: 4px;
+  }
+
+
+
+
+
+ 
